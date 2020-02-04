@@ -1,0 +1,5 @@
+upf/edu/TwitterFilter.class
+upf/edu/parser/SimplifiedTweet.class
+upf/edu/filter/FilterException.class
+upf/edu/uploader/Uploader.class
+upf/edu/filter/LanguageFilter.class
