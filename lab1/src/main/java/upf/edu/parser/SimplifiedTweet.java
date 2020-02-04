@@ -31,6 +31,31 @@ public class SimplifiedTweet {
 
   }
 
+    public long getTweetId() {
+        return tweetId;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public long getUserId() {
+        return userId;
+    }
+
+    public String getUserName() {
+        return userName;
+    }
+
+    public String getLanguage() {
+        return language;
+    }
+
+    public long getTimestampMs() {
+        return timestampMs;
+    }
+  
+  
   /**
    * Returns a {@link SimplifiedTweet} from a JSON String.
    * If parsing fails, for any reason, return an {@link Optional#empty()}
