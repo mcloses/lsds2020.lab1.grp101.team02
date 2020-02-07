@@ -1,5 +1,7 @@
-/home/u136275/Desktop/LSDS2020-master/lab1/src/main/java/upf/edu/filter/FilterException.java
-/home/u136275/Desktop/LSDS2020-master/lab1/src/main/java/upf/edu/uploader/Uploader.java
-/home/u136275/Desktop/LSDS2020-master/lab1/src/main/java/upf/edu/TwitterFilter.java
-/home/u136275/Desktop/LSDS2020-master/lab1/src/main/java/upf/edu/filter/LanguageFilter.java
-/home/u136275/Desktop/LSDS2020-master/lab1/src/main/java/upf/edu/parser/SimplifiedTweet.java
+C:\Users\marce\Marcel\Formació\Universitat\2019-2020\2nd Term\Large Distributed Systems\LSD-master\LSD\lab1\src\main\java\upf\edu\filter\LanguageFilter.java
+C:\Users\marce\Marcel\Formació\Universitat\2019-2020\2nd Term\Large Distributed Systems\LSD-master\LSD\lab1\src\main\java\upf\edu\filter\FileLanguageFilter.java
+C:\Users\marce\Marcel\Formació\Universitat\2019-2020\2nd Term\Large Distributed Systems\LSD-master\LSD\lab1\src\main\java\upf\edu\TwitterFilter.java
+C:\Users\marce\Marcel\Formació\Universitat\2019-2020\2nd Term\Large Distributed Systems\LSD-master\LSD\lab1\src\main\java\upf\edu\uploader\S3Uploader.java
+C:\Users\marce\Marcel\Formació\Universitat\2019-2020\2nd Term\Large Distributed Systems\LSD-master\LSD\lab1\src\main\java\upf\edu\filter\FilterException.java
+C:\Users\marce\Marcel\Formació\Universitat\2019-2020\2nd Term\Large Distributed Systems\LSD-master\LSD\lab1\src\main\java\upf\edu\parser\SimplifiedTweet.java
+C:\Users\marce\Marcel\Formació\Universitat\2019-2020\2nd Term\Large Distributed Systems\LSD-master\LSD\lab1\src\main\java\upf\edu\uploader\Uploader.java

@@ -2,6 +2,8 @@ package upf.edu.uploader;
 
 import java.util.List;
 
+import com.amazonaws.services.s3.AmazonS3;
+
 public interface Uploader {
 
     /**
